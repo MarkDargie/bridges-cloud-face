@@ -1,0 +1,17 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    background-color: black;
+    background-image: url('./background.jpg');
+    background-size: cover;
+    background-position: center;
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+
+.bridges-cloud-body {
+    width:100%;
+    height:100%;
+}
